@@ -1,9 +1,7 @@
 # Ali Al-Kelabi | AI Engineer · Mechatronics Engineer
 
 <!-- Animated glitch banner: upload the GIF to assets/profile-glitch.gif -->
-<p align="center">
-  <img src="assets/profile-glitch.gif" alt="Animated engineering profile" width="100%">
-</p>
+<p align="center"> <img src="./glitch-terminal.svg" alt="Rotating terminal lines: role, style, focus, studying" width="800"> </p>
 
 <h2 align="center">AI · Robotics · Computer Vision · Smart Sensors · Automation</h2>
 
