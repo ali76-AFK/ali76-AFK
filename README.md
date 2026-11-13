@@ -15,9 +15,6 @@
   <a href="./assets/cv/Ali_Al-Kelabi_CV_DE.pdf"><img src="./assets/btn-cv-de.svg" alt="Lebenslauf (Deutsch)" height="38"></a>
 </p>
 
-<p align="center">
-  <img src="./assets/glitch-terminal.svg" alt="Rotating terminal lines: role, style, focus, studying" width="800">
-</p>
 
 <p align="center"><img src="./assets/h-whoami.svg" alt="whoami" width="800"></p>
 
