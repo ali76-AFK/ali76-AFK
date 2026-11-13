@@ -25,7 +25,7 @@ M.Eng. student in **AI for Smart Sensors and Actuators** (Deggendorf Institute o
 | **Now** | M.Eng. coursework completed, Master's thesis next |
 | **Looking for** | Master's thesis · working-student role · internship in AI, robotics, computer vision, data engineering or automation |
 | **Location** | Bavaria, Germany, **open to relocation** |
-| **Languages** | Arabic (native) · English (C2) · German (B2–C1) |
+| **Languages** | English (C2) · German (B2–C1) |
 | **Strengths** | Computer vision · ROS 2 simulation · anomaly detection · LLM / RAG prototypes · sensor and embedded systems · team leadership |
 
 <p align="center"><img src="./assets/h-featured_projects.svg" alt="featured projects" width="800"></p>
