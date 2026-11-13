@@ -1,183 +1,93 @@
-# Ali Al-Kelabi | AI Engineer · Mechatronics Engineer
+
+<p align="center">
+  <img src="./assets/banner.svg" alt="Ali Al-Kelabi – AI Engineer · Mechatronics Engineer. Open to Master's thesis, working student, internship and relocation." width="1000">
+</p>
 
 <!-- Animated glitch banner: upload the GIF to assets/profile-glitch.gif -->
 <p align="center"> <img src="./glitch-terminal.svg" alt="Rotating terminal lines: role, style, focus, studying" width="800"> </p>
 
-<h2 align="center">AI · Robotics · Computer Vision · Smart Sensors · Automation</h2>
 
 <p align="center">
-  <a href="https://ali76-afk.github.io/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/ali-al-kelabi-19096b207/">LinkedIn</a> ·
-  <a href="mailto:ali.alkelabi.engineer@gmail.com">Email</a>
+  <a href="https://ali76-afk.github.io/"><img src="./assets/btn-portfolio.svg" alt="Portfolio" height="38"></a>
+  <a href="https://www.linkedin.com/in/ali-al-kelabi-19096b207/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="38"></a>
+  <a href="mailto:ali.alkelabi.engineer@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="38"></a>
+  <a href="./assets/cv/Ali_Al-Kelabi_CV_EN.pdf"><img src="./assets/btn-cv-en.svg" alt="CV (English)" height="38"></a>
+  <a href="./assets/cv/Ali_Al-Kelabi_CV_DE.pdf"><img src="./assets/btn-cv-de.svg" alt="Lebenslauf (Deutsch)" height="38"></a>
 </p>
-
----
-
-## `> whoami`
-
-I'm Ali Al-Kelabi, a Mechatronics Engineer (B.Eng.) and Master's student in Artificial Intelligence for Smart Sensors and Actuators at Deggendorf Institute of Technology, Germany.
-
-I work at the intersection of AI, software engineering, robotics and sensor systems. I enjoy turning technical concepts into practical, understandable and testable systems.
-
-My interests include:
-
-- Artificial Intelligence and Machine Learning
-- Computer Vision and Deep Learning
-- Robotics and ROS 2
-- Industrial sensor systems and data analytics
-- LLM applications and AI agents
-- Workflow automation and software integration
-
-Currently based in Bavaria, Germany. Open to opportunities in AI engineering, robotics, computer vision, automation and data engineering.
-
----
-
-## `> featured_projects`
-
-### AI & Machine Learning
-
-**[AML Alert Triage Copilot](https://github.com/ali76-AFK/AML-Alert-Triage-Copilot)**
-
-LLM-assisted analysis of synthetic AML alerts with structured JSON validation and human-in-the-loop review.
-
-`Python` `FastAPI` `Streamlit` `Pydantic` `LLMs`
-
-**[Diabetic Retinopathy Detection](https://github.com/ali76-AFK/Diabetic-Retinopathy-Detection)**
-
-Deep-learning pipeline for retinal image classification and grading, exploring ResNet-50 and DenseNet-121.
-
-`Python` `TensorFlow` `OpenCV` `Deep Learning`
-
-**[Aerial Fire Detection](https://github.com/ali76-AFK/Aerial-Fire-Detection-with-MobileNetV2)**
-
-University team project comparing VGG16 and MobileNetV2 for satellite-image wildfire classification.
-
-`Python` `TensorFlow` `MobileNetV2` `Computer Vision`
-
-### Robotics & Automation
-
-**[Gesture-Controlled UR5e Pick-and-Place](https://github.com/ali76-AFK/gesture_arm)**
-
-Simulated robotic manipulation integrating RGB-D perception, gesture recognition, object detection and MoveIt 2.
-
-`ROS 2` `Gazebo` `MoveIt 2` `OpenCV` `YOLOv8`
-
-**[UR5 Manipulation with ROS 1](https://github.com/ali76-AFK/UR5-Manipulator-with-Ubuntu-16.04-ROS1-kinetic-and-color-Recognition)**
-
-Simulated UR5 manipulation with HSV-based colour recognition and motion planning.
-
-`ROS 1` `Gazebo` `MoveIt` `Python/C++`
-
-### Data Engineering & Industrial Systems
-
-**[Industrial Telemetry & Anomaly Detection](https://github.com/ali76-AFK/Industrial-Telemetry-Anomaly-Detection-Workflow-Automation)**
-
-Sensor-data processing pipeline comparing Z-score and Isolation Forest anomaly detection.
-
-`Python` `PySpark` `SQL` `Isolation Forest`
-
-**[Local Research Assistant](https://github.com/ali76-AFK/Local-Research-Assistant)**
-
-Local RAG-based knowledge assistant for retrieving information from personal documents.
-
-`Python` `PyTorch` `Hugging Face` `Chroma` `FastAPI`
-
----
-
-## `> professional_experience`
-
-| Position | Organization | Period |
-|---|---|---|
-| Working Student – UiPath & C# Automation | Deggendorf Institute of Technology | 06/2025 – 11/2025 |
-| Project Collaboration – ML & Computer Vision | ICON, Malaysia | 03/2024 – 07/2024 |
-| German Lecturer | 4C, Jordan | 10/2023 – 07/2024 |
-| Engineering Intern – Mechatronics | SURECO, Malaysia | 07/2022 – 09/2022 |
-| Student Research Assistant – ML & Sensor Data | IIUM / Malaysian Nuclear Agency | 11/2019 – 02/2023 |
-
----
-
-## `> published_research`
-
-**Machine-Learning-Based Evaluation of Corrosion Under Insulation in Ferromagnetic Structures**
-
-*IIUM Engineering Journal, 2021*
-
-Co-author. Contributions included experimental Pulsed Eddy Current measurements, LabVIEW data acquisition, probe development and data preparation.
-
-[Read the publication](https://doi.org/10.31436/iiumej.v22i2.1692)
-
----
-
-## `> technical_stack`
-
-**Programming & Software**
-
-`Python` `C/C++` `C#` `JavaScript` `SQL` `Bash` `Git` `Docker` `Linux`
-
-**AI & Machine Learning**
-
-`PyTorch` `TensorFlow/Keras` `Hugging Face` `YOLOv8` `OpenCV` `Transfer Learning`
-
-**LLMs & Automation**
-
-`RAG` `LangGraph` `n8n` `Prompt Engineering` `UiPath` `Structured JSON`
-
-**Data Engineering**
-
-`PySpark` `Pandas` `NumPy` `PostgreSQL` `MS SQL Server` `Grafana`
-
-**Robotics & Embedded Systems**
-
-`ROS 2` `ROS 1` `Gazebo` `MoveIt 2` `Raspberry Pi` `Arduino` `ESP32` `LoRa` `LabVIEW`
-
-**Web & Application Development**
-
-`FastAPI` `Streamlit` `Plotly` `React` `Vue.js` `Node.js` `REST APIs`
-
----
-
-## `> education`
-
-**M.Eng. – Artificial Intelligence for Smart Sensors and Actuators**
-
-Deggendorf Institute of Technology, Germany
-
-03/2025 – Present
-
-- Fourth semester
-- All coursework completed; Master's thesis remaining
-- Focus: Machine Learning, Deep Learning, Computer Vision, Sensor Systems and Intelligent Automation
-
-**B.Eng. – Mechatronics**
-
-International Islamic University Malaysia
-
-02/2019 – 02/2023
-
-- Graduated with distinction
-- German-equivalent grade: 2.0
-- Research focus: Pulsed Eddy Current, signal processing and sensor development
-
----
-
-## `> beyond_engineering`
-
-- Co-founder of Arobot, a voluntary student robotics initiative.
-- Robocon University Team – electronics, coding and robot testing.
-- IoT hydroponic system development and team leadership.
-- Experience in technical communication, teaching and engineering collaboration.
-
----
-
-## `> connect`
-
-I'm interested in collaborating on practical engineering challenges and innovative AI applications.
-
-- **Portfolio:** https://ali76-afk.github.io/
-- **LinkedIn:** https://www.linkedin.com/in/ali-al-kelabi-19096b207/
-- **GitHub:** https://github.com/ali76-AFK
-- **Email:** ali.alkelabi.engineer@gmail.com
 
 <p align="center">
-  <i>Building intelligent systems. Connecting software, sensors and the physical world.</i>
+  <img src="./assets/glitch-terminal.svg" alt="Rotating terminal lines: role, style, focus, studying" width="800">
 </p>
+
+<p align="center"><img src="./assets/h-whoami.svg" alt="whoami" width="800"></p>
+
+M.Eng. student in **AI for Smart Sensors and Actuators** (Deggendorf Institute of Technology) with a **B.Eng. in Mechatronics**. I connect AI and software with real sensor data, robotics and automation, and I like turning technical ideas into systems that are practical, understandable and testable.
+
+| | |
+|---|---|
+| **Now** | M.Eng. coursework completed, Master's thesis next |
+| **Looking for** | Master's thesis · working-student role · internship in AI, robotics, computer vision, data engineering or automation |
+| **Location** | Bavaria, Germany, **open to relocation** |
+| **Languages** | Arabic (native) · English (C2) · German (B2–C1) |
+| **Strengths** | Computer vision · ROS 2 simulation · anomaly detection · LLM / RAG prototypes · sensor and embedded systems · team leadership |
+
+<p align="center"><img src="./assets/h-featured_projects.svg" alt="featured projects" width="800"></p>
+
+<table>
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/ali76-AFK/gesture_arm"><img src="./assets/card-ur5e.svg" alt="Gesture-Controlled UR5e Pick-and-Place" width="400"></a></td>
+    <td width="50%" align="center"><a href="https://github.com/ali76-AFK/Industrial-Telemetry-Anomaly-Detection-Workflow-Automation"><img src="./assets/card-telemetry.svg" alt="Industrial Telemetry and Anomaly Detection" width="400"></a></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/ali76-AFK/AML-Alert-Triage-Copilot"><img src="./assets/card-aml.svg" alt="AML Alert Triage Copilot" width="400"></a></td>
+    <td width="50%" align="center"><a href="https://github.com/ali76-AFK/Diabetic-Retinopathy-Detection"><img src="./assets/card-dr.svg" alt="Diabetic Retinopathy Detection" width="400"></a></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/ali76-AFK/Local-Research-Assistant"><img src="./assets/card-rag.svg" alt="Local Research Assistant (RAG)" width="400"></a></td>
+    <td width="50%" align="center"><a href="https://github.com/ali76-AFK/Aerial-Fire-Detection-with-MobileNetV2"><img src="./assets/card-fire.svg" alt="Aerial Fire Detection with MobileNetV2" width="400"></a></td>
+  </tr>
+</table>
+
+<p align="center"><sub>Robotics results are from simulation and the LLM projects are prototypes. More: <a href="https://github.com/ali76-AFK/UR5-Manipulator-with-Ubuntu-16.04-ROS1-kinetic-and-color-Recognition">UR5 manipulation with ROS 1</a> · <a href="https://github.com/ali76-AFK?tab=repositories">all repositories</a></sub></p>
+
+<p align="center"><img src="./assets/h-professional_experience.svg" alt="professional experience" width="800"></p>
+
+| Role | Where | When | Highlights |
+|---|---|---|---|
+| **Working Student**, UiPath & C# Automation | Deggendorf Institute of Technology | 06/2025 – 11/2025 | Built a UiPath course with practical use cases; web-scraping automation for data pipelines |
+| **Project Collaboration**, ML & Computer Vision | ICON, Malaysia | 03/2024 – 07/2024 | YOLO-based camera violation detection; OCR and object-detection use case; data prep and annotation |
+| **German Lecturer** | 4C, Jordan | 10/2023 – 07/2024 | Taught German at A1–B1 levels |
+| **Engineering Intern**, Mechatronics | SURECO, Malaysia | 07/2022 – 09/2022 | Student-team leader in an industry engineering study on a vortex-generator concept |
+| **Student Research Assistant**, ML & Sensor Data | IIUM / Malaysian Nuclear Agency | 11/2019 – 02/2023 | Pulsed-eddy-current measurements, LabVIEW data acquisition, probe design |
+
+<p align="center"><img src="./assets/h-published_research.svg" alt="published research" width="800"></p>
+
+**Machine-Learning-Based Evaluation of Corrosion Under Insulation in Ferromagnetic Structures**, *IIUM Engineering Journal, 2021* · co-author ([DOI](https://doi.org/10.31436/iiumej.v22i2.1692)).
+My part: experimental Pulsed Eddy Current measurements, LabVIEW data acquisition, probe development and data preparation.
+
+<p align="center"><img src="./assets/h-technical_stack.svg" alt="technical stack" width="800"></p>
+
+<p align="center"><img src="./assets/stack.svg" alt="Technical stack: Python, C/C++, C#, JavaScript, SQL, PyTorch, TensorFlow, Hugging Face, YOLOv8, OpenCV, RAG, LangGraph, n8n, UiPath, PySpark, PostgreSQL, ROS 2, Gazebo, MoveIt 2, Raspberry Pi, Arduino, ESP32, LoRa, FastAPI, Streamlit, React" width="800"></p>
+
+<p align="center"><img src="./assets/h-education.svg" alt="education" width="800"></p>
+
+- **M.Eng. Artificial Intelligence for Smart Sensors and Actuators**, Deggendorf Institute of Technology, 03/2025 – present. Focus: machine learning, deep learning, computer vision, sensor systems, intelligent automation.
+- **B.Eng. Mechatronics**, International Islamic University Malaysia, 02/2019 – 02/2023. Graduated with distinction (German-equivalent grade 2.0). Research in pulsed eddy current, signal processing and sensor development.
+
+<p align="center"><img src="./assets/h-beyond_engineering.svg" alt="beyond engineering" width="800"></p>
+
+- **Co-founder, Arobot**: voluntary student initiative with workshops and Arduino/Raspberry Pi projects for about 150 participants.
+- **Team leader**: IoT hydroponic system and Jetson Nano attendance-recognition app.
+- **Robocon university team**: electronics, coding and testing for an arrow-shooting robot.
+- **2nd place** at EDUTECH 2021 and at the IIUM CNN traffic-control competition 2022; Dean's List twice.
+
+<p align="center"><img src="./assets/h-connect.svg" alt="connect" width="800"></p>
+
+<p align="center">
+  Interested in a thesis topic, working-student role or internship? Write to me, I reply quickly.<br><br>
+  <a href="mailto:ali.alkelabi.engineer@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="38"></a>
+  <a href="https://www.linkedin.com/in/ali-al-kelabi-19096b207/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="38"></a>
+  <a href="https://ali76-afk.github.io/"><img src="./assets/btn-portfolio.svg" alt="Portfolio" height="38"></a>
+</p>
+
+<p align="center"><i>Building intelligent systems. Connecting software, sensors and the physical world.</i></p>
