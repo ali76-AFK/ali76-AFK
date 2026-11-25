@@ -26,7 +26,7 @@ M.Eng. student in **AI for Smart Sensors and Actuators** (Deggendorf Institute o
 | **Looking for** | Master's thesis · working-student role · internship in AI, robotics, computer vision, data engineering or automation |
 | **Location** | Bavaria, Germany, **open to relocation** |
 | **Languages** | English (C2) · German (B2–C1) |
-| **Strengths** | Computer vision · ROS 2 simulation · anomaly detection · LLM / RAG prototypes · sensor and embedded systems · team leadership |
+| **Strengths** | Computer vision · ROS 2 simulation · anomaly detection · local LLM prototypes · sensor and embedded systems · team leadership |
 
 <p align="center"><img src="./assets/h-featured_projects.svg" alt="featured projects" width="800"></p>
 
@@ -40,12 +40,12 @@ M.Eng. student in **AI for Smart Sensors and Actuators** (Deggendorf Institute o
     <td width="50%" align="center"><a href="https://github.com/ali76-AFK/Diabetic-Retinopathy-Detection"><img src="./assets/card-dr.svg" alt="Diabetic Retinopathy Detection" width="400"></a></td>
   </tr>
   <tr>
-    <td width="50%" align="center"><a href="https://github.com/ali76-AFK/Local-Research-Assistant"><img src="./assets/card-rag.svg" alt="Local Research Assistant (RAG)" width="400"></a></td>
+    <td width="50%" align="center"><a href="https://github.com/ali76-AFK/Local-Research-Assistant"><img src="./assets/card-rag.svg" alt="AIrab – Local LLM Research Assistant" width="400"></a></td>
     <td width="50%" align="center"><a href="https://github.com/ali76-AFK/Aerial-Fire-Detection-with-MobileNetV2"><img src="./assets/card-fire.svg" alt="Aerial Fire Detection with MobileNetV2" width="400"></a></td>
   </tr>
 </table>
 
-<p align="center"><sub>Robotics results are from simulation and the LLM projects are prototypes. More: <a href="https://github.com/ali76-AFK/UR5-Manipulator-with-Ubuntu-16.04-ROS1-kinetic-and-color-Recognition">UR5 manipulation with ROS 1</a> · <a href="https://github.com/ali76-AFK?tab=repositories">all repositories</a></sub></p>
+<p align="center"><sub>Robotics results are from simulation and the LLM projects are prototypes. More: <a href="https://github.com/ali76-AFK/UR5-Manipulator-with-Ubuntu-16.04-ROS1-kinetic-and-color-Recognition">UR5 manipulation with ROS 1</a> (fork of an open-source project, updated and containerised by me) · <a href="https://github.com/ali76-AFK?tab=repositories">all repositories</a></sub></p>
 
 <p align="center"><img src="./assets/h-professional_experience.svg" alt="professional experience" width="800"></p>
 
@@ -64,7 +64,7 @@ My part: experimental Pulsed Eddy Current measurements, LabVIEW data acquisition
 
 <p align="center"><img src="./assets/h-technical_stack.svg" alt="technical stack" width="800"></p>
 
-<p align="center"><img src="./assets/stack.svg" alt="Technical stack: Python, C/C++, C#, JavaScript, SQL, PyTorch, TensorFlow, Hugging Face, YOLOv8, OpenCV, RAG, LangGraph, n8n, UiPath, PySpark, PostgreSQL, ROS 2, Gazebo, MoveIt 2, Raspberry Pi, Arduino, ESP32, LoRa, FastAPI, Streamlit, React" width="800"></p>
+<p align="center"><img src="./assets/stack.svg" alt="Technical stack: Python, C/C++, C#, JavaScript, SQL, PyTorch, TensorFlow, Hugging Face, YOLOv8, OpenCV, local LLMs, n8n, UiPath, PySpark, PostgreSQL, ROS 2, Gazebo, MoveIt 2, Raspberry Pi, Arduino, ESP32, LoRa, FastAPI, Streamlit, React" width="800"></p>
 
 <p align="center"><img src="./assets/h-education.svg" alt="education" width="800"></p>
 
