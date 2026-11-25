@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-label="Ali Al-Kelabi, AI Engineer and Mechatronics Engineer. AI, robotics, computer vision, smart sensors, automation. Open to Master's thesis, working student, internship and relocation.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0f1a"/><stop offset="1" stop-color="#150d2b"/></linearGradient>
+<radialGradient id="gl" cx=".12" cy=".35" r=".6"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".28"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset=".6" stop-color="#f43f5e"/><stop offset="1" stop-color="#f43f5e" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+.fr{opacity:0;animation-name:fr;animation-iteration-count:infinite;animation-timing-function:linear}
+.rr,.cc{opacity:0;animation-name:rg;animation-iteration-count:infinite;animation-timing-function:steps(1,end)}
+.cc{animation-name:cg}
+.nm{animation:jn 7s infinite steps(1,end)}
+.nr{opacity:0;animation:rn 7s infinite steps(1,end)}
+.nc{opacity:0;animation:cn 7s infinite steps(1,end)}
+.sl{opacity:0;animation:sb 7s infinite steps(1,end)}
+.dot{animation:bk 1.4s infinite steps(1,end)}
+@keyframes fr{0%{opacity:0}12%{opacity:1}70%{opacity:1}100%{opacity:0}}
+@keyframes rg{0%{opacity:0}12%{opacity:.9;transform:translate(-3px,0)}13.2%{opacity:0}100%{opacity:0}}
+@keyframes cg{0%{opacity:0}12%{opacity:.9;transform:translate(3px,0)}13.2%{opacity:0}100%{opacity:0}}
+@keyframes jn{0%{transform:translate(0,0)}50%{transform:translate(3px,0)}50.6%{transform:translate(-3px,0)}51.2%{transform:translate(0,0)}100%{transform:translate(0,0)}}
+@keyframes rn{0%{opacity:0}50%{opacity:.85;transform:translate(-6px,0)}50.6%{transform:translate(5px,1px)}51.2%{opacity:0}100%{opacity:0}}
+@keyframes cn{0%{opacity:0}50%{opacity:.85;transform:translate(6px,0)}50.6%{transform:translate(-5px,-1px)}51.2%{opacity:0}100%{opacity:0}}
+@keyframes sb{0%{opacity:0}50%{opacity:.35}51.2%{opacity:0}100%{opacity:0}}
+@keyframes bk{0%{opacity:1}50%{opacity:.15}}
+@media (prefers-reduced-motion:reduce){.fr{animation:none;opacity:1}.rr,.cc,.nm,.nr,.nc,.sl{animation:none;opacity:0}.dot{animation:none}}
+</style>
+<rect x="1" y="1" width="998" height="288" rx="14" fill="url(#bg)" stroke="#2d3348" stroke-width="2"/>
+<rect x="1" y="1" width="998" height="288" rx="14" fill="url(#gl)"/>
+<g class="fr" style="animation-duration:9s;animation-delay:-0.0s">
+<text class="rr" x="700" y="36" fill="#f43f5e" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:9s;animation-delay:-0.0s">ros2 launch gesture_arm</text>
+<text class="cc" x="700" y="36" fill="#38bdf8" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:9s;animation-delay:-0.0s">ros2 launch gesture_arm</text>
+<text x="700" y="36" fill="#c4b5fd" fill-opacity=".34" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace">ros2 launch gesture_arm</text></g>
+<g class="fr" style="animation-duration:11s;animation-delay:-2.3s">
+<text class="rr" x="700" y="92" fill="#f43f5e" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:11s;animation-delay:-2.3s">model.fit(X, y)</text>
+<text class="cc" x="700" y="92" fill="#38bdf8" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:11s;animation-delay:-2.3s">model.fit(X, y)</text>
+<text x="700" y="92" fill="#fb7185" fill-opacity=".34" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace">model.fit(X, y)</text></g>
+<g class="fr" style="animation-duration:13s;animation-delay:-4.6s">
+<text class="rr" x="60" y="36" fill="#f43f5e" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:13s;animation-delay:-4.6s">kalman.predict()</text>
+<text class="cc" x="60" y="36" fill="#38bdf8" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:13s;animation-delay:-4.6s">kalman.predict()</text>
+<text x="60" y="36" fill="#c4b5fd" fill-opacity=".34" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace">kalman.predict()</text></g>
+<g class="fr" style="animation-duration:10s;animation-delay:-6.9s">
+<text class="rr" x="900" y="120" fill="#f43f5e" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:10s;animation-delay:-6.9s">0x7F3A</text>
+<text class="cc" x="900" y="120" fill="#38bdf8" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:10s;animation-delay:-6.9s">0x7F3A</text>
+<text x="900" y="120" fill="#fb7185" fill-opacity=".34" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace">0x7F3A</text></g>
+<g class="fr" style="animation-duration:12s;animation-delay:-9.2s">
+<text class="rr" x="760" y="190" fill="#f43f5e" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:12s;animation-delay:-9.2s">SELECT * FROM telemetry</text>
+<text class="cc" x="760" y="190" fill="#38bdf8" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:12s;animation-delay:-9.2s">SELECT * FROM telemetry</text>
+<text x="760" y="190" fill="#c4b5fd" fill-opacity=".34" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace">SELECT * FROM telemetry</text></g>
+<g class="fr" style="animation-duration:9s;animation-delay:-2.5s">
+<text class="rr" x="270" y="272" fill="#f43f5e" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:9s;animation-delay:-2.5s">if (anomaly) alert()</text>
+<text class="cc" x="270" y="272" fill="#38bdf8" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:9s;animation-delay:-2.5s">if (anomaly) alert()</text>
+<text x="270" y="272" fill="#fb7185" fill-opacity=".34" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace">if (anomaly) alert()</text></g>
+<g class="fr" style="animation-duration:11s;animation-delay:-2.8s">
+<text class="rr" x="870" y="272" fill="#f43f5e" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:11s;animation-delay:-2.8s">while True:</text>
+<text class="cc" x="870" y="272" fill="#38bdf8" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:11s;animation-delay:-2.8s">while True:</text>
+<text x="870" y="272" fill="#c4b5fd" fill-opacity=".34" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace">while True:</text></g>
+<g class="fr" style="animation-duration:13s;animation-delay:-3.1s">
+<text class="rr" x="840" y="240" fill="#f43f5e" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:13s;animation-delay:-3.1s">cv2.findContours(img)</text>
+<text class="cc" x="840" y="240" fill="#38bdf8" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:13s;animation-delay:-3.1s">cv2.findContours(img)</text>
+<text x="840" y="240" fill="#fb7185" fill-opacity=".34" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace">cv2.findContours(img)</text></g>
+<g class="fr" style="animation-duration:10s;animation-delay:-8.4s">
+<text class="rr" x="520" y="36" fill="#f43f5e" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:10s;animation-delay:-8.4s">LoRa.send(pkt)</text>
+<text class="cc" x="520" y="36" fill="#38bdf8" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:10s;animation-delay:-8.4s">LoRa.send(pkt)</text>
+<text x="520" y="36" fill="#c4b5fd" fill-opacity=".34" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace">LoRa.send(pkt)</text></g>
+<g class="fr" style="animation-duration:12s;animation-delay:-8.7s">
+<text class="rr" x="860" y="70" fill="#f43f5e" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:12s;animation-delay:-8.7s">import torch</text>
+<text class="cc" x="860" y="70" fill="#38bdf8" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:12s;animation-delay:-8.7s">import torch</text>
+<text x="860" y="70" fill="#fb7185" fill-opacity=".34" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace">import torch</text></g>
+<g class="fr" style="animation-duration:9s;animation-delay:-5.0s">
+<text class="rr" x="300" y="36" fill="#f43f5e" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:9s;animation-delay:-5.0s">pid.update(err)</text>
+<text class="cc" x="300" y="36" fill="#38bdf8" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:9s;animation-delay:-5.0s">pid.update(err)</text>
+<text x="300" y="36" fill="#c4b5fd" fill-opacity=".34" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace">pid.update(err)</text></g>
+<g class="fr" style="animation-duration:11s;animation-delay:-3.3s">
+<text class="rr" x="600" y="118" fill="#f43f5e" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:11s;animation-delay:-3.3s">01001010</text>
+<text class="cc" x="600" y="118" fill="#38bdf8" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:11s;animation-delay:-3.3s">01001010</text>
+<text x="600" y="118" fill="#fb7185" fill-opacity=".34" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace">01001010</text></g>
+<g class="fr" style="animation-duration:13s;animation-delay:-1.6s">
+<text class="rr" x="520" y="272" fill="#f43f5e" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:13s;animation-delay:-1.6s">rx_buffer[512]</text>
+<text class="cc" x="520" y="272" fill="#38bdf8" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:13s;animation-delay:-1.6s">rx_buffer[512]</text>
+<text x="520" y="272" fill="#c4b5fd" fill-opacity=".34" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace">rx_buffer[512]</text></g>
+<g class="fr" style="animation-duration:10s;animation-delay:-9.9s">
+<text class="rr" x="760" y="150" fill="#f43f5e" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:10s;animation-delay:-9.9s">pose = estimate(frame)</text>
+<text class="cc" x="760" y="150" fill="#38bdf8" fill-opacity=".5" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" style="animation-duration:10s;animation-delay:-9.9s">pose = estimate(frame)</text>
+<text x="760" y="150" fill="#fb7185" fill-opacity=".34" font-size="12" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace">pose = estimate(frame)</text></g>
+<g font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace">
+<g class="nr"><text x="60" y="122" font-size="62" font-weight="700" fill="#f43f5e">ALI AL-KELABI</text></g>
+<g class="nc"><text x="60" y="122" font-size="62" font-weight="700" fill="#38bdf8">ALI AL-KELABI</text></g>
+<g class="nm"><text x="60" y="122" font-size="62" font-weight="700" fill="#f8fafc">ALI AL-KELABI</text></g>
+<rect class="sl" x="54" y="82" width="420" height="6" fill="#f43f5e"/><rect class="sl" x="90" y="104" width="360" height="4" fill="#38bdf8"/>
+<text x="62" y="162" font-size="22" fill="#c4b5fd">AI Engineer <tspan fill="#f43f5e">·</tspan> Mechatronics Engineer</text>
+<text x="62" y="192" font-size="15" fill="#94a3b8">AI · Robotics · Computer Vision · Smart Sensors · Automation</text>
+<rect x="60" y="212" width="760" height="38" rx="19" fill="#0f1424" stroke="#34d399" stroke-opacity=".6"/>
+<circle class="dot" cx="84" cy="231" r="5" fill="#34d399"/>
+<text x="100" y="236" font-size="14" fill="#e2e8f0"><tspan fill="#34d399" font-weight="700">Open to:</tspan> Master's thesis · Working student · Internship · <tspan fill="#c4b5fd">Relocation</tspan></text>
+</g>
+<rect x="60" y="262" width="180" height="2" fill="url(#ln)"/>
+</svg>

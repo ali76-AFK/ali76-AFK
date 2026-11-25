@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="160" viewBox="0 0 400 160" role="img" aria-label="Aerial Fire Detection">
+<defs><linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#f43f5e"/></linearGradient></defs>
+<rect x="1" y="1" width="398" height="158" rx="10" fill="#0b0f1a" stroke="#2d3348" stroke-width="2"/>
+<rect x="1" y="14" width="4" height="132" rx="2" fill="url(#a)"/>
+<g font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace">
+<text x="22" y="28" font-size="11" fill="#f43f5e">// computer vision · team project</text>
+<text x="378" y="28" font-size="14" fill="#8b5cf6" text-anchor="end">↗</text>
+<text x="22" y="54" font-size="14.5" font-weight="700" fill="#f8fafc">Aerial Fire Detection</text>
+<text x="22" y="78" font-size="12" fill="#cbd5e1">VGG16 baseline vs MobileNetV2 for satellite</text>
+<text x="22" y="95" font-size="12" fill="#cbd5e1">wildfire image classification (team of 4).</text>
+<text x="22" y="120" font-size="11.5" fill="#38bdf8">▸ my part: preprocessing, MobileNetV2, evaluation</text>
+<text x="22" y="144" font-size="11" fill="#a78bfa">TensorFlow · MobileNetV2 · Scikit-learn</text></g></svg>
