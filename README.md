@@ -18,7 +18,7 @@
 
 <p align="center"><img src="./assets/h-whoami.svg" alt="whoami" width="800"></p>
 
-M.Eng. student in **AI for Smart Sensors and Actuators** (Deggendorf Institute of Technology) with a **B.Eng. in Mechatronics**. I connect AI and software with real sensor data, robotics and automation, and I like turning technical ideas into systems that are practical, understandable and testable.
+AI and Mechatronics engineer. I connect AI and software with real sensor data, robotics and automation, and I turn technical ideas into systems that are practical, understandable and testable.
 
 | | |
 |---|---|
