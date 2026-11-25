@@ -68,8 +68,9 @@ My part: experimental Pulsed Eddy Current measurements, LabVIEW data acquisition
 
 <p align="center"><img src="./assets/h-education.svg" alt="education" width="800"></p>
 
-- **M.Eng. Artificial Intelligence for Smart Sensors and Actuators**, Deggendorf Institute of Technology, 03/2025 – present. Focus: machine learning, deep learning, computer vision, sensor systems, intelligent automation.
-- **B.Eng. Mechatronics**, International Islamic University Malaysia, 02/2019 – 02/2023. Graduated with distinction (German-equivalent grade 2.0). Research in pulsed eddy current, signal processing and sensor development.
+- **M.Eng. Artificial Intelligence for Smart Sensors and Actuators**, Deggendorf Institute of Technology, 03/2025 – present. Focus: machine learning, deep learning, computer vision, system design, advanced sensors, big data, edge devices, autonomous systems, network communication, model based function engineering.
+- **B.Eng. Mechatronics**, IIUM University Malaysia, 02/2019 – 04/2023. Focus: software engineering, signal processing, industrial automation, mathematics, robotics, machine learning, deep learning,
+intelligent control, embedded systems, engineering design. Graduated with distinction (German-equivalent grade 2.0). Research in pulsed eddy current, signal processing and sensor development.
 
 <p align="center"><img src="./assets/h-beyond_engineering.svg" alt="beyond engineering" width="800"></p>
 
@@ -81,7 +82,6 @@ My part: experimental Pulsed Eddy Current measurements, LabVIEW data acquisition
 <p align="center"><img src="./assets/h-connect.svg" alt="connect" width="800"></p>
 
 <p align="center">
-  Interested in a thesis topic, working-student role or internship? Write to me, I reply quickly.<br><br>
   <a href="mailto:ali.alkelabi.engineer@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="38"></a>
   <a href="https://www.linkedin.com/in/ali-al-kelabi-19096b207/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="38"></a>
   <a href="https://ali76-afk.github.io/"><img src="./assets/btn-portfolio.svg" alt="Portfolio" height="38"></a>
