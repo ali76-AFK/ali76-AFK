@@ -23,7 +23,7 @@ M.Eng. student in **AI for Smart Sensors and Actuators** (Deggendorf Institute o
 | | |
 |---|---|
 | **Now** | M.Eng. coursework completed, Master's thesis next |
-| **Looking for** | Master's thesis · working-student role · internship in AI, robotics, computer vision, data engineering or automation |
+| **Looking for** | AI, robotics, computer vision, data engineering, embedded systems, engineering management or automation position |
 | **Location** | Bavaria, Germany, **open to relocation** |
 | **Languages** | English (C2) · German (B2–C1) |
 | **Strengths** | Computer vision · ROS 2 simulation · anomaly detection · local LLM prototypes · sensor and embedded systems · team leadership |
@@ -45,7 +45,7 @@ M.Eng. student in **AI for Smart Sensors and Actuators** (Deggendorf Institute o
   </tr>
 </table>
 
-<p align="center"><sub>Robotics results are from simulation and the LLM projects are prototypes. More: <a href="https://github.com/ali76-AFK/UR5-Manipulator-with-Ubuntu-16.04-ROS1-kinetic-and-color-Recognition">UR5 manipulation with ROS 1</a> (fork of an open-source project, updated and containerised by me) · <a href="https://github.com/ali76-AFK?tab=repositories">all repositories</a></sub></p>
+<p align="center"><sub> More: <a href="https://github.com/ali76-AFK/UR5-Manipulator-with-Ubuntu-16.04-ROS1-kinetic-and-color-Recognition">UR5 manipulation with ROS 1</a>  <a href="https://github.com/ali76-AFK?tab=repositories">all repositories</a></sub></p>
 
 <p align="center"><img src="./assets/h-professional_experience.svg" alt="professional experience" width="800"></p>
 
@@ -53,7 +53,7 @@ M.Eng. student in **AI for Smart Sensors and Actuators** (Deggendorf Institute o
 |---|---|---|---|
 | **Working Student**, UiPath & C# Automation | Deggendorf Institute of Technology | 06/2025 – 11/2025 | Built a UiPath course with practical use cases; web-scraping automation for data pipelines |
 | **Project Collaboration**, ML & Computer Vision | ICON, Malaysia | 03/2024 – 07/2024 | YOLO-based camera violation detection; OCR and object-detection use case; data prep and annotation |
-| **German Lecturer** | 4C, Jordan | 10/2023 – 07/2024 | Taught German at A1–B1 levels |
+| **German Lecturer** | 4C | 10/2023 – 07/2024 | Taught German at A1–B1 levels |
 | **Engineering Intern**, Mechatronics | SURECO, Malaysia | 07/2022 – 09/2022 | Student-team leader in an industry engineering study on a vortex-generator concept |
 | **Student Research Assistant**, ML & Sensor Data | IIUM / Malaysian Nuclear Agency | 11/2019 – 02/2023 | Pulsed-eddy-current measurements, LabVIEW data acquisition, probe design |
 
